@@ -7,7 +7,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(wav-write wav-write.cpp)
 add_executable(wav-read wav-read.cpp)
-add_executable(sine-sweep sine-sweep.cpp)
+add_executable(porcelain porcelain.cpp)
 
 ## Add lines here to make new executable targets
 #add_executable(impulse-sweep impulse-sweep.cpp)
